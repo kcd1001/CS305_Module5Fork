@@ -39,3 +39,7 @@ Modal tells the user what dataset is being deleted, like “You are about to del
 A temporary "Trashcan" where you can recover a just deleted dataset if you mess up (maybe it's only good for a few hours, and then it cleans the cache assuming you made the right decision).
 name of issue screenshot
 [if relevant, include a screenshot]
+
+
+# Contributors 
+Kane Davidson, kcd1001 
